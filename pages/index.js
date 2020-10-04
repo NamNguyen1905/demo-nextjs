@@ -1,7 +1,5 @@
-import Link from 'next/link';
-import Navbar from '../components/navbar';
+
 import Layout from '../components/Layout';
-import Coin from './Coin';
 
 export default function Home() {
 
